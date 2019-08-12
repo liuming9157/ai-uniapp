@@ -1,0 +1,20 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "AI智能图片识别小工具"
+			}
+		}
+	    ,{
+            "path" : "pages/basic/basic",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "AI智能图片识别小工具",
+		"navigationBarBackgroundColor": "#13227A",
+		"backgroundColor": "#F8F8F8"
+	}
+}

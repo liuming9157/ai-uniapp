@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/basic/basic"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "明志云AI体验馆",
+    "navigationBarBackgroundColor": "#13227A",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
